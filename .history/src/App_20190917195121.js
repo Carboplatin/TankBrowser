@@ -11,10 +11,7 @@ class App extends Component {
       {id: '1', name: 'sherman', body: 'night vision' },
       {id: '2', name: 'panther', body: 'no night vision' },
       {id: '3', name: 'tiger', body: 'night vision' },
-      {id: '4', name: 'crusider', body: 'night vision' },
-      {id: '5', name: 'archer', body: 'no night vision' },
-      {id: '6', name: 'vickers', body: 'no night vision' },
-      {id: '7', name: 't-34', body: 'night vision' },
+      {id: '4', name: 'crusider', body: 'night vision' }
     ],
     searchTank: ''
   }
